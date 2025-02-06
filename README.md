@@ -87,10 +87,12 @@ To test the API endpoints, you can use tools like Postman or curl to send HTTP r
 
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.
 
+## Author
+@shturno
 
 ## Contact
 
-For any inquiries, please contact gabrielasalvarenga2@gmail.com.
+For any inquiries, please contact at [email](mailto:gabriel.dsalvarenga@gmail.com)
 
 
 
